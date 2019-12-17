@@ -1,0 +1,21 @@
+{
+  "name": "ocr-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Shalaw Fatah",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "tesseract.js": "2.0.0-alpha.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
